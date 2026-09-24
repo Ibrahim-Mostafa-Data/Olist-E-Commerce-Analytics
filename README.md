@@ -12,7 +12,7 @@ An end-to-end data analytics project examining Brazilian E-Commerce public data 
 ---
 
 ## 📸 Dashboards Overview
-
+[Home Dashboard](Home.png)
 ![Overview Dashboard](Overview.png)
 ![Customer Dashboard](Customer.png)
 ![Product Dashboard](Product.png)
