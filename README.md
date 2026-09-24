@@ -12,11 +12,23 @@ An end-to-end data analytics project examining Brazilian E-Commerce public data 
 ---
 
 ## 📸 Dashboards Overview
-[Home Dashboard](Home.png)
+
+### 🏠 Home Dashboard
+![Home Dashboard](Home.png)
+
+### 📈 Overview Dashboard
 ![Overview Dashboard](Overview.png)
+
+### 👥 Customer Dashboard
 ![Customer Dashboard](Customer.png)
+
+### 📦 Product Dashboard
 ![Product Dashboard](Product.png)
+
+### 🚚 Delivery Dashboard
 ![Delivery Dashboard](Delivery.png)
+
+### 🤝 Seller Dashboard
 ![Seller Dashboard](Seller.png)
 
 ---
@@ -59,4 +71,4 @@ An end-to-end data analytics project examining Brazilian E-Commerce public data 
 
 > **الترجمة بالعربي:**
 > * **الملاحظة:** هناك جزء غير هين من التقييمات يقع في فئات الرضا المنخفضة، بما في ذلك **11.28 ألف تقييم بنجمة واحدة**، على الرغم من أن متوسط التقييم العام جيد ويبلغ 4.09.
-> * **التوصية:** إجراء تحليل لمشاعر العملاء (Sentiment Analysis) وتخليص النصوص من المراجعات السلبية لمعرفة السبب الرئيسي (مثل: جودة المنتج مقابل تأخير الشحن). إنشاء نظام تنبيهات آلي للتقييمات الضعيفة لتمكين فريق خدمة العملاء من التدخل والسعي لحل المشكلة فوراً.
+> * **التوصية:** إجراء تحليل متقدم للنصوع واللغة (NLP) وتحليل المشاعر على تعليقات العملاء السلبية لتحديد الأسباب الجذرية (مثل جودة المنتج مقابل تأخير الشحن). تنفيذ نظام تنبيه تلقائي للتقييمات السيئة لتمكين خدمة العملاء من التدخل السريع.
