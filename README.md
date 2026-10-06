@@ -1,5 +1,13 @@
 # 📊 Olist E-Commerce Analytics Hub
 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
 An end-to-end data analytics project examining Brazilian E-Commerce public data (Olist) to extract actionable business insights across sales performance, customer logistics, churn rate, and merchant operations.
 
 ---
@@ -8,6 +16,7 @@ An end-to-end data analytics project examining Brazilian E-Commerce public data 
 * **Database Management:** SQL Server (Data extraction, complex aggregation, CTEs)
 * **Data Processing & Cleaning:** Python (Pandas, NumPy)
 * **Data Visualization & Dashboarding:** Power BI (DAX, Data Modeling, Custom Layouts)
+* **UI/UX Framing:** Figma (Dashboard layout wireframing)
 
 ---
 
@@ -71,4 +80,9 @@ An end-to-end data analytics project examining Brazilian E-Commerce public data 
 
 > **الترجمة بالعربي:**
 > * **الملاحظة:** هناك جزء غير هين من التقييمات يقع في فئات الرضا المنخفضة، بما في ذلك **11.28 ألف تقييم بنجمة واحدة**، على الرغم من أن متوسط التقييم العام جيد ويبلغ 4.09.
-> * **التوصية:** إجراء تحليل متقدم للنصوع واللغة (NLP) وتحليل المشاعر على تعليقات العملاء السلبية لتحديد الأسباب الجذرية (مثل جودة المنتج مقابل تأخير الشحن). تنفيذ نظام تنبيه تلقائي للتقييمات السيئة لتمكين خدمة العملاء من التدخل السريع.
+> * **التوصية:** إجراء تحليل متقدم للنصوص واللغة (NLP) وتحليل المشاعر على تعليقات العملاء السلبية لتحديد الأسباب الجذرية (مثل جودة المنتج مقابل تأخير الشحن). تنفيذ نظام تنبيه تلقائي للتقييمات السيئة لتمكين خدمة العملاء من التدخل السريع.
+
+---
+
+### 👤 Created By:
+**Ebrahim Mustafa** — *Data Analyst & BI Analyst*
